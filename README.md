@@ -1,24 +1,47 @@
-# vue_custom_elements
+# Vue.js Custom Elements
+Simple example of Vue.js custom elements which includes following features.
 
-## Project setup
+* Switch - Alternative for input checkbox
+* Text Input - Type text and password
+* Button - Simple button, Loading button and disabled button
+* Select - Simple select options
+* Multiselect - Multiple dropdown select
+
+### Prerequisites
+
+Make sure you have installed Vue CLI.
+To install vue CLI, follow instructions from here: [https://cli.vuejs.org/guide/installation.html](https://cli.vuejs.org/guide/installation.html)
+
+## Installation
+
+Download or Clone the project
+```
+git clone https://github.com/kazinayem2011/vue.js_custom_elements.git
+```
+
+Switch to project directory
+```bash
+cd <project_directory>
+```
+
+Install the dependency
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+# Run
+
+Install the dependency
 ```
-npm run serve
+npm start
 ```
 
-### Compiles and minifies for production
+Browse url with:
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+http://localhost:8080
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+N.B: This repository is created by me while learning vue.js. You can find the full tutorial series in youtube and all credit goes to "Mamunur Rashid" Bhai.
+See [Tutorial Link](https://www.youtube.com/playlist?list=PLZ8kLhUbDAhDsN9ZVfXGvAE424qCxIIeS).
